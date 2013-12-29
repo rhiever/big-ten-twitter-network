@@ -9,13 +9,13 @@
   },
   "text": {
     "title": "Big Ten Network",
-    "more": "",
+    "more": "This visualization was created by <a href=\"http://www.randalolson.com/\">Randy Olson</a> using data from <a href=\"http://hashtagify.me/\">Hashtagify.me</a>. If you would like to take any screenshots of this visualization to highlight on your own web site, please <a href=\"http://www.randalolson.com/contact/\">contact me</a> first.",
     "intro": "A visualization of Twitter hashtags related to Big Ten football."
   },
   "legend": {
-    "edgeLabel": "",
-    "colorLabel": "",
-    "nodeLabel": ""
+    "edgeLabel": "Related hashtags",
+    "colorLabel": "Team color",
+    "nodeLabel": "Hashtag popularity"
   },
   "features": {
     "search": true,
@@ -31,7 +31,7 @@
       "minEdgeSize": 0.5,
       "maxNodeSize": 16,
       "maxEdgeSize": 1.0,
-      "minNodeSize": 8
+      "minNodeSize": 6
     },
     "drawingProperties": {
       "labelThreshold": 1,
