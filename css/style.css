@@ -447,12 +447,27 @@ background-repeat: no-repeat;
 margin-left: 5px;
 }
 
+#copyright-info,
 #copyright {
 	margin:0 auto;	
 	position: fixed;
 	right: 40px;
 	bottom: 25px;
 	z-index:0;
+}
+
+#copyright-info  {
+    right: 0px;
+    position: relative;
+    float: right;
+    display; inline-block;
+}
+
+.sigma-font {
+    font-family: lobster, Arial, Helvetica, sans-serif;
+    font-weight: normal;
+    text-decoration: none;
+    display: inline;
 }
 
 #copyright a {
