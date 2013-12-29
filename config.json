@@ -8,8 +8,8 @@
     "link": ""
   },
   "text": {
-    "title": "Big Ten Network",
-    "more": "This visualization was created by <a href=\"http://www.randalolson.com/\">Randy Olson</a> using data from <a href=\"http://hashtagify.me/\">Hashtagify.me</a>. If you would like to take any screenshots of this visualization to highlight on your own web site, please <a href=\"http://www.randalolson.com/contact/\">contact me</a> first.",
+    "title": "Big Ten Twitter Network",
+    "more": "<h3>Big Ten Twitter Network</h3><br /><br />This visualization was created by <a href=\"http://www.randalolson.com/\">Randy Olson</a> using data from <a href=\"http://hashtagify.me/\">Hashtagify.me</a>. If you would like to take any screenshots of this visualization to highlight on your own web site, please <a href=\"http://www.randalolson.com/contact/\">contact me</a> first.",
     "intro": "A visualization of Twitter hashtags related to Big Ten football."
   },
   "legend": {
@@ -19,7 +19,7 @@
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Label",
+    "groupSelectorAttribute": "none",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
