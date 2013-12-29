@@ -193,6 +193,14 @@ font-size:14px;
 	bottom:0;
 }
 
+.twitter-tweet {
+    width: 90px;
+}
+
+.fb-like {
+    width: 80px;
+}
+
 #jisc {
 width: 71px;
 height: 56px;
